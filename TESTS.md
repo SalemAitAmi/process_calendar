@@ -1,7 +1,4 @@
 # Tests for `SENG 265`, Assignment #4
-# Note: `Use in Unix environment`: diff will always fail on windows because of CRLF line terminators (even if all characters match)
-# try file output.txt and compare with file test01.txt in bash terminal 
-# tester.sh runs every test automatically; Individual tests below 
 
 * Test 1
     * Input: `one.ics`
